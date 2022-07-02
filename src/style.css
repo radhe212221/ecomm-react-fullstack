@@ -1,0 +1,15 @@
+input,button,a
+{
+    padding: 5px;
+}
+
+section
+{
+    display: flex;
+    flex-flow: wrap;
+}
+section>div{
+    width: 13%;
+    margin:10px;
+    padding: 10px;
+}
